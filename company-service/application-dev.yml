@@ -53,3 +53,6 @@ springdoc:
     path: /company-service/v3/api-docs
 login_service:
   ambiente: dev
+teste:
+  company: "teste-company"
+  default-value: "teste-default"
